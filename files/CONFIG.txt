@@ -1,0 +1,21 @@
+USER_DB_PATH = \path\to\files\USERS_DB.db
+MAX_MINUTES_PENDING_INVITE = 7
+// keep it secret!
+SERVER_SALT = 9&6Q045P!R7z
+MIN_PASSWORD_LENGTH = 3
+ID_PREFIX = _
+TIME_OPEN_GAME_MIN = 5
+TIME_TYPING_WORDS_MIN = 2
+MIN_PLAYERS_PER_MATCH = 2
+SCORES_DB_PATH = \path\to\files\SCORES_DB.db
+DICTIONARY_PATH = \path\to\files\dictionary.txt
+SERVER_NAME = localhost
+SERVER_MULTICAST = 239.255.1.1
+SERVER_MULTICAST_PORT = 1027
+TCP_PORT = 1026
+UDP_PORT = 1028
+MAX_PACKET_SIZE = 512
+MIN_LETTERS = 4
+
+// if the user wants to be notified each time there's a new invite
+NOTIFY_INVITE = true
